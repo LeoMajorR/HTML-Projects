@@ -1,5 +1,7 @@
 <p align="center">
 
+<base target="_blank">
+
 # HTML-Projects
  
 
