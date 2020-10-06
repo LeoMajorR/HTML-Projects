@@ -1,9 +1,10 @@
-<base target="_blank">
 <center>
 
 # HTML Basic Projects
 <hr>
 </center>
+
+<base target="_blank">
 
 <p align="center"> 
 
